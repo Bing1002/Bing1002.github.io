@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage of Bing"
 title_separator          : "-"
 name                     : &name "Bing Zha"
-description              : &description "Research Scientist @MSI"
+description              : &description "Machine Learning Engineer @Torc Robotics"
 url                      : https://bing1002.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Bing1002/Bing1002.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Bing Zha"
-  avatar           : "profile.jpg"
-  bio              : "Research Scientist @MSI"
-  location         : "Boston, MA"
+  avatar           : "profile_bz.jpeg"
+  bio              : "Machine Learning Engineer @Torc Robotics"
+  location         : "Ann Arbor, MI"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TZmXC_QAAAAJ&hl=en"
