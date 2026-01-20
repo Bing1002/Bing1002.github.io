@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Machine Learning Engineer | Autonomous Driving & Computer Vision**
-
-I am a Machine Learning Engineer at **Torc Robotics**, where I work on perception and geometry-centric learning systems for autonomous long-haul trucks. My current focus is on camera-based localization, 3D geometric perception, and large-scale deep learning systems that enable safe and reliable autonomy.
+My name is Bing Zha. I am a Machine Learning Engineer at **Torc Robotics**, where I work on perception and geometry-centric learning systems for autonomous long-haul trucks. My current focus is on camera-based localization, 3D geometric perception, and large-scale deep learning systems that enable safe and reliable autonomy.
 
 
 Previously, I was a **Research Scientist at Motorola Solutions**, developing deep learning–based perception models for large-scale video surveillance and intelligent sensing platforms.
